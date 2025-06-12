@@ -70,20 +70,6 @@ python run.py \
 
 ---
 
-## 📦 Project Structure
-
-```
-life_sim/
-├── core/              # Grid and agent logic
-│   ├── grid.py
-│   └── ...
-├── ui/                # Placeholder UI module
-├── run.py             # CLI entry point
-├── sim.py             # Main simulation loop
-├── data/saves/        # Saved states
-└── README.md          # You are here
-```
-
 ---
 
 ## 🔭 Roadmap
