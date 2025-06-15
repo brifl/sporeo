@@ -118,7 +118,7 @@ MIT License — free to use, remix, and evolve.
 
 ## 🌱 Maintainers
 
-Built by \[you] and ChatGPT in co-development mode. If you'd like a contributors list or emoji credits, just say the word.
+Built by brifl and ChatGPT in co-development mode. Vibe coding FTW.
 
 > "Complexity is what happens when simple things have to get clever to survive."
 
